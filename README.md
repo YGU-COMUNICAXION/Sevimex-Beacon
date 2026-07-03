@@ -33,8 +33,9 @@ Mi trabajo consistio en maquetar la pagina, adaptar la identidad visual, organiz
 
 ## Fecha de referencia
 
-- Primer commit visible en este clon: 2026-06-18.
-- Commit de referencia: `e19bff3`.
+- Primer commit del repositorio: 2025-05-13.
+- Commit de referencia: `74424aa`.
+- Primer commit funcional de mi autoria: 2025-05-15, commit `c4a7f39`.
 
 ## Notas para portafolio
 
